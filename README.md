@@ -3,3 +3,13 @@
 ## Juan David Murillo
 ### Universidad de La Sabana
 #### 2024 - I
+
+
+## Link repositorio frontend: 
+https://github.com/LaMajoP/SmartLine-Mio
+## Link repositorio backend: 
+https://github.com/LaMajoP/BACKEND-PROYECTO-FINAL-WEB
+## Link frontend desplegado:
+https://smart-line-mio.vercel.app/
+## Link backend desplegado:
+https://backend-proyecto-final-web.onrender.com
