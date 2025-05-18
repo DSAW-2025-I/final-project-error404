@@ -4,12 +4,15 @@
 ### Universidad de La Sabana
 #### 2025 - I
 
+## Nombres participantes:
+- Maria Jose Palomino Carreño
+- Samuel Guerrero Arcos
 
-## Link repositorio frontend: 
+### Link repositorio frontend: 
 https://github.com/LaMajoP/SmartLine-Mio
-## Link repositorio backend: 
+### Link repositorio backend: 
 https://github.com/LaMajoP/BACKEND-PROYECTO-FINAL-WEB
-## Link frontend desplegado:
+### Link frontend desplegado:
 https://smart-line-mio.vercel.app/
-## Link backend desplegado:
+### Link backend desplegado:
 https://backend-proyecto-final-web.onrender.com
