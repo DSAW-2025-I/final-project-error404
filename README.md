@@ -7,7 +7,7 @@
 ## Nombres participantes:
 - Maria Jose Palomino Carreño
 - Samuel Guerrero Arcos
--------------------------------------------------------
+---------------
 ### Link repositorio frontend: 
 https://github.com/LaMajoP/SmartLine-Mio
 ### Link repositorio backend: 
